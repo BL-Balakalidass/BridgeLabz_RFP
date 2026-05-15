@@ -1,4 +1,4 @@
-package Day_5_Practice_Problem;
+package Day_5;
 
 import java.util.Random;
 import java.util.Scanner;

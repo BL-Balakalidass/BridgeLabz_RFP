@@ -1,8 +1,9 @@
-package Day_5_Practice_Problem;
+package Day_5;
 
 import java.util.Scanner;
 
 public class EvenOrOdd {
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
