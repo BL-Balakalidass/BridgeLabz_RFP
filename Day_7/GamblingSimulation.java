@@ -92,6 +92,8 @@ public class GamblingSimulator {
             int result = dailyResults[day - 1];
 
             if (result > 0) {
+
+
                 wonDays++;
                 logger.info("Day " + day + " Won Amount: $" + result);
             } else {
