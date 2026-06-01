@@ -1,6 +1,9 @@
-package Day_23_Practice_Problem;
+package Day_23;
+
 
 @FunctionalInterface
 public interface UserValidation {
+    
     boolean validate(String value);
+
 }
