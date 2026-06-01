@@ -1,6 +1,4 @@
 package Day_23;
-
-
 @FunctionalInterface
 public interface UserValidation {
     
