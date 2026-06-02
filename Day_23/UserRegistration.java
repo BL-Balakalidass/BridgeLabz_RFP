@@ -1,4 +1,4 @@
-package Day_23_Practice_Problem;
+package Day_23;
 
 import java.util.Scanner;
 
