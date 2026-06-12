@@ -1,0 +1,14 @@
+{
+  "persons": [
+    {
+      "id": "001",
+      "firstName": "Bala",
+      "lastName": "M",
+      "address": "Street",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600001",
+      "phoneNumber": "9043025523"
+    }
+  ]
+}
